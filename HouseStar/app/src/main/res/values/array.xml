@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="MeasurementUnit">
+        <item>Pieces</item>
+        <item>Grams</item>
+        <item>Kilo-Gram</item>
+        <item>Litre</item>
+        <item>Milli-Litre</item>
+        <item>Spoon</item>
+        <item>Bowl</item>
+        <item>Cup</item>
+        <item>Glass</item>
+    </string-array>
+
+    <array name="MeasurmentImages">
+        <item>@mipmap/piece</item>
+        <item>@mipmap/gram</item>
+        <item>@mipmap/kilogram</item>
+        <item>@mipmap/litre</item>
+        <item>@mipmap/millilitre</item>
+        <item>@mipmap/spoon</item>
+        <item>@mipmap/bowl</item>
+        <item>@mipmap/cup</item>
+        <item>@mipmap/glass</item>
+    </array>
+
+    <string-array name="listItems">
+        <item>Cooking Oil</item>
+        <item>Spices</item>
+        <item>Generic Items</item>
+        <item>Flour/Rice</item>
+        <item>Liquids</item>
+        <item>Lentils</item>
+        <item>Vegetables</item>
+        <item>Meat</item>
+        <item>Fruits</item>
+        <item>Add Ons</item>
+    </string-array>
+
+    <array name="listImages">
+        <item>@mipmap/cookingoil</item>
+        <item>@mipmap/spices</item>
+        <item>@mipmap/generic</item>
+        <item>@mipmap/flour_rice</item>
+        <item>@mipmap/liquids</item>
+        <item>@mipmap/lentils</item>
+        <item>@mipmap/vegetables</item>
+        <item>@mipmap/nonvegetarian</item>
+        <item>@mipmap/fruits</item>
+        <item>@mipmap/addons</item>
+    </array>
+
+    <string-array name="recipeType">
+        <item>Vegetarian</item>
+        <item>Non Vegetarian</item>
+        <item>Egg Based</item>
+        <item>Drinks</item>
+        <item>Desserts</item>
+    </string-array>
+
+    <array name="recipeImages">
+        <item>@mipmap/veg</item>
+        <item>@mipmap/nonveg</item>
+        <item>@mipmap/egg</item>
+        <item>@mipmap/drink</item>
+        <item>@mipmap/dessert</item>
+    </array>
+
+    <string-array name="oName">
+        <item>Olive Oil</item>
+        <item>Coconut Oil</item>
+        <item>Mustard Oil</item>
+        <item>Sunflower Oil</item>
+        <item>Ghee</item>
+        <item>Refined Oil</item>
+    </string-array>
+
+    <array name="oImages">
+        <item>@mipmap/olive</item>
+        <item>@mipmap/coconut</item>
+        <item>@mipmap/mustard</item>
+        <item>@mipmap/sunflower</item>
+        <item>@mipmap/ghee</item>
+        <item>@mipmap/refined</item>
+    </array>
+
+    <string-array name="procNames">
+        <item>Cut</item>
+        <item>Grate</item>
+        <item>Boil</item>
+        <item>Peel</item>
+        <item>Stir</item>
+        <item>Grind</item>
+        <item>Strain</item>
+        <item>Stir Fry</item>
+        <item>Blanch</item>
+        <item>Cooker</item>
+        <item>Burner</item>
+        <item>Deep Fry</item>
+        <item>Electric Stir</item>
+        <item>Microwave</item>
+        <item>Grill</item>
+        <item>Steam Cook</item>
+
+    </string-array>
+
+    <array name="procImages">
+        <item>@mipmap/cut</item>
+        <item>@mipmap/grate</item>
+        <item>@mipmap/boil</item>
+        <item>@mipmap/peel</item>
+        <item>@mipmap/stirrer</item>
+        <item>@mipmap/grinder</item>
+        <item>@mipmap/strain</item>
+        <item>@mipmap/stirfry</item>
+        <item>@mipmap/blanching</item>
+        <item>@mipmap/cooker</item>
+        <item>@mipmap/burner</item>
+        <item>@mipmap/deepfry</item>
+        <item>@mipmap/elecstirrer</item>
+        <item>@mipmap/microwave</item>
+        <item>@mipmap/grill</item>
+        <item>@mipmap/steamcook</item>
+    </array>
+
+    <string-array name="comment">
+        <item> </item>
+        <item>Small</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Big</item>
+    </string-array>
+
+    <array name="nil">
+        <item>@mipmap/nil</item>
+        <item>@mipmap/nil</item>
+        <item>@mipmap/nil</item>
+        <item>@mipmap/nil</item>
+        <item>@mipmap/nil</item>
+        <item>@mipmap/nil</item>
+    </array>
+
+</resources>
